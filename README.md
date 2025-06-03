@@ -1,9 +1,9 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/33a3e2bd-b9ad-467f-82ef-720215f09d56" alt="Radiffect Logo" width="145"/>
-  <img src="https://github.com/user-attachments/assets/d10eefe9-c3ea-4c43-9c8f-5f5f7eed6016" alt="Radiffect Logo" width="400"/>
+  <img src="https://github.com/user-attachments/assets/33a3e2bd-b9ad-467f-82ef-720215f09d56" alt="Radiffect Logo" width="115"/>
+  <img src="https://github.com/user-attachments/assets/d10eefe9-c3ea-4c43-9c8f-5f5f7eed6016" alt="Radiffect Logo" width="300"/>
 </p>
 
-<h1 align="left">🎮 Radiffect: A Post-Apocalyptic Retro-Style RPG on 💧SUI Network</h1>
+<h1 align="left">Radiffect: A Post-Apocalyptic Retro-Style RPG on 💧SUI Network</h1>
 <p align="left">
   <a href="https://radiffect.com/" target="_blank">
     🌐 <strong>radiffect.com</strong>
@@ -105,6 +105,6 @@ In the aftermath of a catastrophic radiation outbreak, the world is overrun with
 ## 📬 Contact
 
 * Team **100x**Engineers
-* Email: [radiffect@gmail.com](mailto:radiffect@gmail.com)]
-* Discord: [https://discord.gg/bQmXEHu5HZ](https://discord.gg/bQmXEHu5HZ)]
-* Twitter: [@radiffect](https://x.com/radiffect)]
+* Email: [radiffect@gmail.com](mailto:radiffect@gmail.com)
+* Discord: [https://discord.gg/bQmXEHu5HZ](https://discord.gg/bQmXEHu5HZ)
+* Twitter: [@radiffect](https://x.com/radiffect)
