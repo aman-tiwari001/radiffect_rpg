@@ -24,7 +24,7 @@
   
 **Note**: *We’ve kept the main project repository private due to security reasons. However, for judging purposes, we have included a detailed system design architecture in readme files. Additionally, a brief code walk-through video is provided for reference.*
 
-**Radiffect** is a retro-style Role-Playing Game (RPG) that blends survival, strategy gameplay within a dystopian world transformed by an unprecedented radiation burst from the Earth’s core. Built on the **SUI Blockchain**, Radiffect introduces **play-to-earn mechanics**, **NFT ownership**, and **real-time decentralized gameplay**, redefining the future of blockchain-integrated RPGs.
+**Radiffect** is a retro-style RPG where adventure, strategy, and survival collide in a post-apocalyptic world transformed by a sudden surge of inner radiation from Mother Earth. The catastrophe wiped out most of humanity, and the radiation mutated every living being on the planet. As one of the few survivors, your mission is to become the ultimate hunter by capturing, taming, and mastering these mutated creatures. Radiffect combines classic RPG with strategic item collection and a dynamic in-game marketplace for trading collectibles. 
 
 ---
 
