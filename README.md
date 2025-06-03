@@ -14,7 +14,7 @@
   </a> 
 |
   <a href="https://youtu.be/AjZCxK22XMw" target="_blank">
-     <strong>Code Walkthrough Video</strong>
+     <strong>Code Walk-through Video</strong>
   </a> 
 |
   <a href="https://www.canva.com/design/DAGpSvCmEjc/kVbofkSNqvKzEc3GAHvseQ/edit?utm_content=DAGpSvCmEjc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
@@ -22,9 +22,9 @@
   </a>
 </p>
   
-**Note**: *We’ve kept the project repository private due to security reasons. However, for judging purposes, we have included a detailed system design architecture in readme files. Additionally, a brief code walkthrough video is provided for reference.*
+**Note**: *We’ve kept the main project repository private due to security reasons. However, for judging purposes, we have included a detailed system design architecture in readme files. Additionally, a brief code walk-through video is provided for reference.*
 
-**Radiffect** is a retro-style Role-Playing Game (RPG) that blends survival, strategy, and collectible card gameplay within a dystopian world transformed by an unprecedented radiation burst from the Earth’s core. Built on the **SUI Blockchain**, Radiffect introduces **play-to-earn mechanics**, **NFT ownership**, and **real-time decentralized gameplay**, redefining the future of blockchain-integrated RPGs.
+**Radiffect** is a retro-style Role-Playing Game (RPG) that blends survival, strategy gameplay within a dystopian world transformed by an unprecedented radiation burst from the Earth’s core. Built on the **SUI Blockchain**, Radiffect introduces **play-to-earn mechanics**, **NFT ownership**, and **real-time decentralized gameplay**, redefining the future of blockchain-integrated RPGs.
 
 ---
 
