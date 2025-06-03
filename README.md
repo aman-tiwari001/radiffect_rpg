@@ -1,6 +1,6 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/33a3e2bd-b9ad-467f-82ef-720215f09d56" alt="Radiffect Logo" width="115"/>
-  <img src="https://github.com/user-attachments/assets/d10eefe9-c3ea-4c43-9c8f-5f5f7eed6016" alt="Radiffect Logo" width="300"/>
+  <img src="https://github.com/user-attachments/assets/45a16bcf-a280-48e1-a595-24ea156031f0" alt="Radiffect Logo" width="115"/>
+  <img src="https://github.com/user-attachments/assets/174e060d-d5ff-4f57-9e46-f793404ed450" alt="Radiffect Logo" width="300"/>
 </p>
 
 <h1 align="left">Radiffect: A Post-Apocalyptic Retro-Style RPG on 💧SUI Network</h1>
