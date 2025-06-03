@@ -13,10 +13,16 @@
      <strong>Demo Video</strong>
   </a> 
 |
+  <a href="https://youtu.be/JjeQP2_9Pw8?si=-aynU3suhGr382wc" target="_blank">
+     <strong>Code Walkthrough Video</strong>
+  </a> 
+|
   <a href="https://www.canva.com/design/DAGpSvCmEjc/kVbofkSNqvKzEc3GAHvseQ/edit?utm_content=DAGpSvCmEjc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
      <strong>Pitch Deck</strong>
   </a>
 </p>
+  
+**Note**: *We’ve kept the project repository private due to security reasons. However, for judging purposes, we have included a detailed system design architecture in readme files. Additionally, a brief code walkthrough video is provided for reference.*
 
 **Radiffect** is a retro-style Role-Playing Game (RPG) that blends survival, strategy, and collectible card gameplay within a dystopian world transformed by an unprecedented radiation burst from the Earth’s core. Built on the **SUI Blockchain**, Radiffect introduces **play-to-earn mechanics**, **NFT ownership**, and **real-time decentralized gameplay**, redefining the future of blockchain-integrated RPGs.
 
@@ -45,7 +51,7 @@ In the aftermath of a catastrophic radiation outbreak, the world is overrun with
 
 ## 🧠 Tech Stack
 
-*Note: for more detailed system design and architecture please refer to the separate front-end and back-end readme.md*
+*Note: for more detailed system design and architecture please refer to [front-end.md](https://github.com/aman-tiwari001/radiffect_rpg/blob/main/front-end.md) and [back-end.md](https://github.com/aman-tiwari001/radiffect_rpg/blob/main/back-end.md)*
 
 ### 🖥 Frontend
 
@@ -108,3 +114,5 @@ In the aftermath of a catastrophic radiation outbreak, the world is overrun with
 * Email: [radiffect@gmail.com](mailto:radiffect@gmail.com)
 * Discord: [https://discord.gg/bQmXEHu5HZ](https://discord.gg/bQmXEHu5HZ)
 * Twitter: [@radiffect](https://x.com/radiffect)
+
+*Note: We’ve kept the project repository private due to security reasons. However, for judging purposes, we have included a detailed system design architecture in readme files. Additionally, a brief code walkthrough video highlighting key components is provided for reference.*
