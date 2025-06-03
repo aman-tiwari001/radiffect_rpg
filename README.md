@@ -13,7 +13,7 @@
      <strong>Demo Video</strong>
   </a> 
 |
-  <a href="https://youtu.be/JjeQP2_9Pw8?si=-aynU3suhGr382wc" target="_blank">
+  <a href="https://youtu.be/AjZCxK22XMw" target="_blank">
      <strong>Code Walkthrough Video</strong>
   </a> 
 |
@@ -92,7 +92,6 @@ In the aftermath of a catastrophic radiation outbreak, the world is overrun with
 
 * **ts-node-dev** – Live TypeScript development.
 * **Helmet.js** – Secure HTTP headers.
-* **CORS** – Cross-origin handling.
 * **Zod** – Input validation.
 * **Swagger/OpenAPI** – Auto-generated API documentation.
 
